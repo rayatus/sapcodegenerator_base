@@ -1,2 +1,2 @@
-# sapcodegenerator_base
-Base components of SAPCodeGenerator repository
+# SAPCodeGenerator Base
+Base components of SAPCodeGenerator repository (https://github.com/rayatus/sapcodegenerator)
